@@ -143,3 +143,18 @@
 		}
 	}
 }
+
+$breakpoint-tablet: 768px;
+@media (max-width: $breakpoint-tablet) {
+	#page-auth{
+
+	
+		aside {
+			display: none;
+	
+			img {
+				display: none;
+			}
+		}
+	}
+}

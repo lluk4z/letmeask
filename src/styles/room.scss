@@ -137,6 +137,13 @@ $breakpoint-tablet: 768px;
 					button {
 						height: 40px;
 					}
+
+					.outlined {
+						height: 5vh;
+						display: flex;
+						font-size: 0.7rem;
+						width: 20vw;
+					}
 				}
 			}
 		}
