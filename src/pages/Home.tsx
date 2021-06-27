@@ -1,5 +1,7 @@
 import { useHistory } from 'react-router-dom';
 
+import  Switch  from 'react-switch';
+
 import { auth, database, firebase } from '../services/firebase'
 
 import illustrationImg from '../assets/images/illustration.svg'
