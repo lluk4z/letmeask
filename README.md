@@ -2,6 +2,10 @@
 
 <img src="/src/assets/images/home.png" alt="My cool logo"/>
 
+<img src="/src/assets/images/room.png" alt="My cool logo"/>
+
+<img src="/src/assets/images/admin.png" alt="My cool logo"/>
+
 
 # Getting Started with Create React App
 
